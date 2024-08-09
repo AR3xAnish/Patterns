@@ -6,7 +6,7 @@ Pattern 6
 1 2 3 
 1 2 
 1 
-
+ 
 */
 
 #include<bits/stdc++.h>
